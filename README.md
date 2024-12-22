@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 # React Movie Search App
 
+![Modern Movie App](r4.png)
+
 ## Overview
 The Movie Search App is a React-based application that utilizes the [OMDb API](https://www.omdbapi.com/) to allow users to search for movies. The app features a live search capability, enabling users to see results as they type in the search bar. Users can also save their favorite movies by clicking a like button, and their selections are stored in local storage, ensuring that favorites persist even if the browser is closed.
 
